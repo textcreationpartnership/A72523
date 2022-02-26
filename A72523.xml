@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles exhibited in Parliament against William Archbishop of Canterbury, Feb. 25. 1640. Published by a true and perfect copy</title>
+            <title>Proceedings. 1641-02-25</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72523</idno>
+            <idno type="STC">STC 15310.1</idno>
+            <idno type="STC">Wing A3822A</idno>
+            <idno type="STC">ESTC S124786</idno>
+            <idno type="EEBO-CITATION">99900416</idno>
+            <idno type="PROQUEST">99900416</idno>
+            <idno type="VID">151979</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72523)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151979)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2008:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles exhibited in Parliament against William Archbishop of Canterbury, Feb. 25. 1640. Published by a true and perfect copy</title>
+                  <title>Proceedings. 1641-02-25</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 2, 9-15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1640 [i.e. 1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Years on title page are given according to Lady Day dating; the articles were presented on 25 Feb. 1641.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Laud, William, 1573-1645 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151979:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 26 -->
+            <p>ARTICLES EXHIBITED IN PARLIAMENT AGAINST WILLIAM ARCHBISHOP OF CANTERBURY, Feb. 25. 1640.</p>
+            <p>Publiſhed by a true and perfect Copy.</p>
+            <p>Printed in the yeare 1640</p>
+         </div>
+      </front>
+      <body>
+         <div type="articles">
+            <pb facs="tcp:151979:2"/>
+            <!-- PDF PAGE 27 -->
+            <pb n="1" facs="tcp:151979:2"/>
+            <!-- PDF PAGE 27 -->
+            <head>Articles of the Commons aſſembled in PARLIAMENT, AGAINST <hi>WILLIAM LAWD,</hi> Archbiſhop of <hi>Canterbury,</hi> in mainte<g ref="char:EOLhyphen"/>nance of their Accuſation, whereby he ſtands charged with High Treaſon, <hi>Febr.</hi> 25. 1640.</head>
+            <p n="1">I. THat hee, the ſaid <hi>VVilliam Laud,</hi> Arch-Biſhop of <hi>Canterbury,</hi> traiterouſly la<g ref="char:EOLhyphen"/>bored to ſubvert the fundamentall Lawes and Government of the Kingdome by giving his Majeſtie advice, privately, and at Counſell Table, High Commiſſion, and in other places, that hee would have governed by Civill Lawes, and further ſaid, hee would make the proudeſt Subject in the Kingdome to give way unto him: and being told it was againſt Law, he ſaid he would make it Law, and that the King might at his owne pleaſure take away without Law, and make it warran<g ref="char:EOLhyphen"/>table by Gods Law.</p>
+            <pb n="2" facs="tcp:151979:3"/>
+            <!-- PDF PAGE 28 -->
+            <p n="2">II. His countenancing of bookes, and their Authors, for the maintenance of his unlimi<g ref="char:EOLhyphen"/>ted and abſolute power, whereby the power of Parliament is denied, and the Biſhops power of Prelacie ſet up.</p>
+            <p n="3">III. That he traiterouſly went about to inter<g ref="char:EOLhyphen"/>rupt the Judges by his threatnings, and other meanes, to conſtraine them to give falſe judge<g ref="char:EOLhyphen"/>ment in the caſe of Shipmony, as will appeare both by writings under his hand, and by te<g ref="char:EOLhyphen"/>ſtimony of divers perſons of good worth and quality.</p>
+            <p n="4">IV. That he hath taken bribes, and ſold juſtice in the High Commiſſion as Archbiſhop, and hath not onely corrupted the Judges there, but alſo ſold Judicious places to bee cor<g ref="char:EOLhyphen"/>rupted.</p>
+            <p n="5">V. That hee hath endeavoured the incroach<g ref="char:EOLhyphen"/>ment of Juriſdiction and Inſtitution of Ca<g ref="char:EOLhyphen"/>nons, which are not onely unlawfull, but pre<g ref="char:EOLhyphen"/>judiciall to the ſubject. And that he hath ex<g ref="char:EOLhyphen"/>erciſed his authority very cruelly, both as a Counſellour, Commiſſioner, and a Judge.</p>
+            <p n="6">VI. That hee hath traiterouſly aſſumed a capi<g ref="char:EOLhyphen"/>tal power over his Majeſties ſubjects, deny<g ref="char:EOLhyphen"/>ing his power of Prelacie as from the King.</p>
+            <pb n="9" facs="tcp:151979:3"/>
+            <!-- PDF PAGE 28 -->
+            <p n="7">VII. That by falſe enormious Doctrines and other ſyniſter wayes and meanes Hee went about to ſubvert the Religion eſtabliſhed in this Kingdome, and to ſet up Papiſtrie and ſuperſtition in the Church.</p>
+            <p n="VIII">VIII. That by undue meanes and practice hee hath gotten into his hand the power of no<g ref="char:EOLhyphen"/>minating of Miniſters to Spirituall promo<g ref="char:EOLhyphen"/>tion, and hath preferred none but ſcanda<g ref="char:EOLhyphen"/>lous Miniſters thereunto, and that hee pre<g ref="char:EOLhyphen"/>ferred corrupt Chaplains to His Maje<g ref="char:EOLhyphen"/>ſty.</p>
+            <pb n="10" facs="tcp:151979:4"/>
+            <!-- PDF PAGE 29 -->
+            <p n="9">IX. That his owne Miniſters, as <hi>Haywood, Laifield</hi> and others, are notoriouſly diſaffect<g ref="char:EOLhyphen"/>ed to Religion.</p>
+            <p n="10">X. That he hath Trayterouſly endeavoured to reconcile us to the Church of Rome, and to that end hath employed a <hi>Jeſuite</hi> and a <hi>Papiſt-Prieſt,</hi> and hath wrought with the Popes Agents in ſeverall points.</p>
+            <pb n="11" facs="tcp:151979:4"/>
+            <!-- PDF PAGE 29 -->
+            <p n="11">XI. That to ſuppreſſe preaching, Hee hath ſuſpended divers good men, and uſed un<g ref="char:EOLhyphen"/>lawfull meanes by Letters, and otherwiſe to ſeverall Biſhops, to ſuppreſſe them.</p>
+            <p n="12">XII. That he hath Trayterouſly endeavoured to ſuppreſſe the <hi>French</hi> Religion, which is the ſame wee are off, and the <hi>Dutch</hi> Church, and to ſet diviſion betweene them and us.</p>
+            <pb n="12" facs="tcp:151979:5"/>
+            <!-- PDF PAGE 30 -->
+            <p n="13">XIII. That he hath Trayterouſly endeavoured to ſet Diviſion betweene the King and his Subjects, and hath gone about to bring in Innovations into the Church: And hath in<g ref="char:EOLhyphen"/>duced the King to Warre with the <hi>Scots,</hi> and many upon their death Bedds, to give to<g ref="char:EOLhyphen"/>wards the maintenance of the Warre: And hath cauſed the Clergie to give freely to<g ref="char:EOLhyphen"/>wards the ſame, and hath brought in many Superſtitions and Innovations into the Church of <hi>Scotland:</hi> And that hee procured the King to breake the pacification, thereby to cauſe a bloody Warre between the King<g ref="char:EOLhyphen"/>domes.</p>
+            <pb n="13" facs="tcp:151979:5"/>
+            <!-- PDF PAGE 30 -->
+            <p n="14">XIIII. That to preſerve Himſelfe from being queſtioned, for theſe and other his Trayte<g ref="char:EOLhyphen"/>rous deſignes, from the Firſt of his Maje<g ref="char:EOLhyphen"/>ſties Raigne untill now. Hee laboured to ſubvert the Rights of Parliaments; by all which Words, Councells, and Actions he hath Trayterouſly laboured to Alienate the hearts of the Kings leige people from his Majeſty, to ſet a Diviſion betweene them; and to ruine and deſtroy His Majeſties King<g ref="char:EOLhyphen"/>domes.</p>
+            <p>For which they impeach him of High Treaſon againſt our Soveraigne Lord the King, his Crowne and Dignity.</p>
+            <p>And the ſaid Commons, by proteſtation ſaving to themſelves the liberty of exhibit<g ref="char:EOLhyphen"/>ing at any time hereafter, any other Accu<g ref="char:EOLhyphen"/>ſation or Impeachment againſt the ſaid
+<pb n="14" facs="tcp:151979:6"/>
+               <!-- PDF PAGE 31 -->WILLIAM LAUD, Arch-Biſhop of <hi>Canterbury.</hi>
+            </p>
+            <p>And alſo, to the replying of the An<g ref="char:EOLhyphen"/>ſwers that Hee, the ſaid Arch-Biſhop ſhall make unto the ſaid Articles, or any of them.</p>
+            <p>And of offering proofe alſo of the Premiſſes, or any of them, or any o<g ref="char:EOLhyphen"/>ther Impeachment or Accuſation, that ſhall bee exhibited by them, as the courſe of Parliaments require.</p>
+            <p>DOE PRAY; <hi>That he, the ſaid</hi> VVilli<g ref="char:EOLhyphen"/>am Laud, <hi>Arch-Biſhop of</hi> Canterbury, <hi>may be put ſpee<g ref="char:EOLhyphen"/>dily to anſwer for all, and every of the</hi> Premiſſes: <hi>That ſuch Proceedings, Examinations,
+<pb n="15" facs="tcp:151979:6"/>
+                  <!-- PDF PAGE 31 -->Tryalls, and Judgements, may be upon every of them, had and uſed, as is agreeable to</hi> Law <hi>and</hi> Juſtice.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
